@@ -13,5 +13,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gordon Williams <gw@pur3.co.uk>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "espruino": "^0.1.36",
+    "onoff": "^6.0.1"
+  }
 }

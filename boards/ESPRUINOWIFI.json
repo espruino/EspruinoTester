@@ -5,7 +5,7 @@
     "pi_rst":23,
     "pi_boot0":22,
     "pi_io":24,
-    "device_io":"/dev/ttyACM0"
+    "device_io":"B15"
   },
   "port" : "/dev/ttyACM0",
   "tests" : ["generic"]
