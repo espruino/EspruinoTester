@@ -1,0 +1,17 @@
+{
+  "name": "espruinotester",
+  "version": "1.0.0",
+  "description": "Automatic test harness for Espruino boards",
+  "main": "index.js",
+  "bin": {
+    "espruinotester": "tester.js"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gordon Williams <gw@pur3.co.uk>",
+  "license": "MIT"
+}

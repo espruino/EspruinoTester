@@ -1,0 +1,12 @@
+{
+  "board":"PIXLJS",
+  "firmware":"espruino_%v_pixljs.hex",
+  "pins" : {
+    "pi_swdio":17,
+    "pi_swclk":19,
+    "pi_io":20,
+    "device_io":"D0"
+  },
+  "port" : "c6:f1:eb:32:25:8a",
+  "tests" : ["generic","PIXLJS"]
+}

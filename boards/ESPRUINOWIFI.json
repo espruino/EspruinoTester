@@ -1,0 +1,12 @@
+{
+  "board":"ESPRUINOWIFI",
+  "firmware":"espruino_%v_wifi.bin",
+  "pins" : {
+    "pi_rst":23,
+    "pi_boot0":22,
+    "pi_io":24,
+    "device_io":"/dev/ttyACM0"
+  },
+  "port" : "/dev/ttyACM0",
+  "tests" : ["generic"]
+}
